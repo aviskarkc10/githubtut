@@ -1,2 +1,1 @@
 saying hello from master and branch conflict resolved
->>>>>>> testbranch
